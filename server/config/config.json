@@ -1,22 +1,22 @@
 {
   "development": {
     "username": "root",
-    "password": "",
+    "password": "helloworld",
     "database": "appDb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "test": {
     "username": "root",
-    "password": "",
-    "database": "appDb_test",
+    "password": "helloworld",
+    "database": "appDb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   },
   "production": {
     "username": "root",
-    "password": "",
-    "database": "appDb_prod",
+    "password": "helloworld",
+    "database": "appDb",
     "host": "127.0.0.1",
     "dialect": "mysql"
   }
